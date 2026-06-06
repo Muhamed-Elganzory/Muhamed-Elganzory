@@ -41,6 +41,7 @@
       <strong>Backend & Infrastructure</strong><br/><br/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
       <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
+      <img src="https://img.shields.io/badge/Google_Gemini_API-D1232A?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini API"/>
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
       <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
@@ -53,26 +54,29 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
       <img src="https://img.shields.io/badge/NgRx-BA28A9?style=flat-square&logo=ngrx&logoColor=white" alt="NgRx"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/PrimeNG-D32F2F?style=flat-square&logo=primeng&logoColor=white" alt="PrimeNG"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Architectures & Patterns</strong><br/><br/>
-      • Clean & Onion Architecture<br/>
-      • Vertical Slice Architecture<br/>
+      <strong>Architectures, Patterns & Security</strong><br/><br/>
       • Microservices & Domain-Driven Design (DDD)<br/>
-      • CQRS Pattern (MediatR)<br/>
-      • Repository & Unit of Work Patterns
+      • Clean, Onion & Vertical Slice Architecture<br/>
+      • CQRS Pattern (MediatR) & Orchestrator Pattern<br/>
+      • Repository & Unit of Work Patterns<br/>
+      • ASP.NET Core Identity & JWT Authentication<br/>
+      • Asynchronous Programming & SOLID Principles
     </td>
     <td valign="top" width="50%">
       <strong>Tools & Practices</strong><br/><br/>
       • Feature-Based Frontend Architecture<br/>
-      • Angular SSR (Express) & Signals<br/>
-      • Postman, APIdog & Figma<br/>
-      • Git & Monorepo Structure<br/>
-      • Reverse Proxy (IIS / Kestrel) & Agile (Jira)
+      • Angular SSR, Signals & Chart.js Analytics<br/>
+      • Dynamic Mapping (AutoMapper) & FluentValidation<br/>
+      • Postman, APIdog & Figma Designer<br/>
+      • Git, Monorepo Structure & Agile (Jira)<br/>
+      • Reverse Proxy (IIS / Kestrel Web Server)
     </td>
   </tr>
 </table>
