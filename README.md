@@ -10,7 +10,7 @@
 
 ### 🚀 Featured Projects
 
-* **🛍️ Rose Gifts E-Commerce Platform & Ecosystem**
+* **🛍️ Gifts E-Commerce Platform & Admin Dashboard**
     * **Architecture & Tech:** .NET Core, Angular 19 (Monorepo), Microservices, DDD, RabbitMQ, JWT Authentication, Angular SSR, Signals, NgRx.
     * **Description:** A highly scalable microservices-based enterprise platform with independent data isolation, event-driven service communication via RabbitMQ, an Angular SSR client storefront, and a data-dense Admin Dashboard.
     * 🔗 *Links:* [Microservices BackEnd](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3) | [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3)
@@ -21,11 +21,11 @@
     * 🔗 *Links:* [CQRS BackEnd](https://github.com/elevate-exam-system-groups/ExaminationSystem-gp2-team6) | [Angular FrontEnd (Feature-Based)](https://github.com/Muhamed-Elganzory/Online-Exam)
 
 * **💪 Super Fitness Management & AI Chatbot**
-    * **Architecture & Tech:** .NET 9, Angular 19, Clean Architecture, CQRS, Google Gemini 2.5 Flash AI, Redis Caching, PrimeNG, Tailwind CSS 4.
+    * **Architecture & Tech:** .NET Core, Angular 19, Clean Architecture, CQRS, Google Gemini 2.5 Flash AI, Redis Caching, PrimeNG, Tailwind CSS 4.
     * **Description:** Gym management and nutrition platform integrated with an AI Chatbot via a secure .NET Core API Proxy. Features a sophisticated, reactive 7-step onboarding wizard powered by Angular Signals.
     * 🔗 *Links:* [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/super-fitness)
 
-* **🛒 Talabat E-Commerce Platform & Fresh Cart**
+* **🛒 Talabat E-Commerce Platform**
     * **Architecture & Tech:** .NET Core, Angular, Onion Architecture, Repository & Unit of Work, ASP.NET Core Identity, JWT, Redis Caching, FluentValidation, NgRx.
     * **Description:** Comprehensive full-stack E-Commerce ecosystem with product catalogs, shopping carts, secure checkout flows, dynamic DTO mapping via AutoMapper, and Angular client state managed by NgRx.
     * 🔗 *Links:* [Onion Architecture BackEnd](https://github.com/Muhamed-Elganzory/E-Commerce-API) | [Angular FrontEnd](https://github.com/Muhamed-Elganzory/Fresh-Cart)
@@ -39,7 +39,7 @@
     <td valign="top" width="50%">
       <strong>Backend & Infrastructure</strong><br/><br/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/badge/.NET_Core_/_9-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
+      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
       <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
@@ -48,11 +48,11 @@
     </td>
     <td valign="top" width="50%">
       <strong>Frontend Development</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Angular_v14--v19-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
       <img src="https://img.shields.io/badge/NgRx-BA28A9?style=flat-square&logo=ngrx&logoColor=white" alt="NgRx"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     </td>
   </tr>
@@ -69,9 +69,9 @@
       <strong>Tools & Practices</strong><br/><br/>
       • Feature-Based Frontend Architecture<br/>
       • Angular SSR (Express) & Signals<br/>
-      • Git, Postman & Monorepos<br/>
-      • Reverse Proxy (IIS / Kestrel)<br/>
-      • Agile & Jira
+      • Postman, APIdog & Figma<br/>
+      • Git & Monorepo Structure<br/>
+      • Reverse Proxy (IIS / Kestrel) & Agile (Jira)
     </td>
   </tr>
 </table>
