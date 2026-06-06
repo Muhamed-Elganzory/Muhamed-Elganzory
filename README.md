@@ -28,7 +28,7 @@
 * **🛒 Talabat E-Commerce Platform & Fresh Cart**
     * **Architecture & Tech:** .NET Core, Angular, Onion Architecture, Repository & Unit of Work, ASP.NET Core Identity, JWT, Redis Caching, FluentValidation, NgRx.
     * **Description:** Comprehensive full-stack E-Commerce ecosystem with product catalogs, shopping carts, secure checkout flows, dynamic DTO mapping via AutoMapper, and Angular client state managed by NgRx.
-    * 🔗 *Links:* [Onion Architecture BackEnd](https://github.com/Muhamed-Elganzory/E-Commerce-API) | [Angular FrontEnd](https://github.com/Muhamed-Elganzory) *(برجاء استبدال هذا الرابط برابط الفيرست كارت الفعلي الخاص بك)*
+    * 🔗 *Links:* [Onion Architecture BackEnd](https://github.com/Muhamed-Elganzory/E-Commerce-API) | [Angular FrontEnd](https://github.com/Muhamed-Elganzory/Fresh-Cart)
 
 ---
 
