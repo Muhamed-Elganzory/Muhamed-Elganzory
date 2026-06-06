@@ -1,30 +1,88 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elganzory</h1>
-<h3 align="center">Software Engineer with 2 years of experience building full-stack web applications using .NET and Angular. Transitioning from a 6+ year career managing full IT operations and Healthcare ERP systems, bringing a strong foundation in system architecture, business process understanding, and enterprise environments. Seeking a professional software engineering role to further grow and contribute to a high-quality engineering team</h3>
+<h3 align="center">Software Engineer with 2 years of experience building scalable enterprise full-stack web applications using .NET and Angular. Transitioning from a 6+ year career managing full IT operations and Healthcare ERP systems, bringing a strong foundation in system architecture, business process understanding, and enterprise environments. Seeking a professional software engineering role to further grow and contribute to a high-quality engineering team.</h3>
 
-<h3 align="left">Projects:</h3>
-- 🛒 Talabat E-Commerce Platform | .NET Core, SQL Server [Talabat E-Commerce (BackEnd)](https://github.com/Muhamed-Elganzory/E-Commerce-API)
-  
-- 🛒 Talabat E-Commerce Platform | Angular [Talabat E-Commerce (FrontEnd)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
-- 📜 Online Examination System | .NET Core, SQL Server [Online Examination System (BackEnd)](https://github.com/elevate-exam-system-groups/ExaminationSystem-gp2-team6)
-
-- 📜 Online Examination System | Angular [Online Examination System (FrontEnd)](https://github.com/Muhamed-Elganzory/Online-Exam)
-
-- 🎁 Gifts E-Commerce Platform, Admin Dashboard | Angular [Gifts E-Commerce Platform (FrontEnd)](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3)
-
-- 💪 Super Fitness Management & AI Chatbot | Angular [Super Fitness Management (FrontEnd)](https://github.com/MostafaAbobaker/super-fitness)
-
-- 📫 How to reach me **mohamedelganzory621@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1zASOUyWUM9CvgCtFjEmAx02bmtVRevuV?usp=sharing](https://drive.google.com/drive/folders/1zASOUyWUM9CvgCtFjEmAx02bmtVRevuV?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-elganzory-9ab86718a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elganzory" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-elganzory-9ab86718a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohamedelganzory621@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github.com/Muhamed-Elganzory" alt="muhamed-elganzory" /></p>
+### 🚀 Featured Projects
 
+* **🛍️ Rose Gifts E-Commerce Platform & Ecosystem**
+    * **Architecture & Tech:** .NET Core, Angular 19 (Monorepo), Microservices, DDD, RabbitMQ, JWT Authentication, Angular SSR, Signals, NgRx.
+    * **Description:** A highly scalable microservices-based enterprise platform with independent data isolation, event-driven service communication via RabbitMQ, an Angular SSR client storefront, and a data-dense Admin Dashboard.
+    * 🔗 *Links:* [Microservices BackEnd](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3) | [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3)
+
+* **📜 Online Examination System**
+    * **Architecture & Tech:** .NET Core, Angular, Vertical Slice Architecture, CQRS (MediatR), IIS, Reverse Proxy, AutoMapper, Signals, Chart.js.
+    * **Description:** A decoupled assessment platform featuring complete exam workflows, real-time grading, dynamic analytics dashboards via Chart.js, and an optimized web infrastructure using IIS and Kestrel in a Reverse Proxy setup.
+    * 🔗 *Links:* [CQRS BackEnd](https://github.com/elevate-exam-system-groups/ExaminationSystem-gp2-team6) | [Angular FrontEnd (Feature-Based)](https://github.com/Muhamed-Elganzory/Online-Exam)
+
+* **💪 Super Fitness Management & AI Chatbot**
+    * **Architecture & Tech:** .NET 9, Angular 19, Clean Architecture, CQRS, Google Gemini 2.5 Flash AI, Redis Caching, PrimeNG, Tailwind CSS 4.
+    * **Description:** Gym management and nutrition platform integrated with an AI Chatbot via a secure .NET Core API Proxy. Features a sophisticated, reactive 7-step onboarding wizard powered by Angular Signals.
+    * 🔗 *Links:* [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/super-fitness)
+
+* **🛒 Talabat E-Commerce Platform & Fresh Cart**
+    * **Architecture & Tech:** .NET Core, Angular, Onion Architecture, Repository & Unit of Work, ASP.NET Core Identity, JWT, Redis Caching, FluentValidation, NgRx.
+    * **Description:** Comprehensive full-stack E-Commerce ecosystem with product catalogs, shopping carts, secure checkout flows, dynamic DTO mapping via AutoMapper, and Angular client state managed by NgRx.
+    * 🔗 *Links:* [Onion Architecture BackEnd](https://github.com/Muhamed-Elganzory/E-Commerce-API) | [Angular FrontEnd](https://github.com/Muhamed-Elganzory) *(برجاء استبدال هذا الرابط برابط الفيرست كارت الفعلي الخاص بك)*
+
+---
+
+### 🛠️ Languages and Tools
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Backend & Infrastructure</strong><br/><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/.NET_Core_/_9-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
+      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+      <img src="https://img.shields.io/badge/IIS-007ACC?style=flat-square&logo=windows&logoColor=white" alt="IIS"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Frontend Development</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Angular_v14--v19-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
+      <img src="https://img.shields.io/badge/NgRx-BA28A9?style=flat-square&logo=ngrx&logoColor=white" alt="NgRx"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Architectures & Patterns</strong><br/><br/>
+      • Clean & Onion Architecture<br/>
+      • Vertical Slice Architecture<br/>
+      • Microservices & Domain-Driven Design (DDD)<br/>
+      • CQRS Pattern (MediatR)<br/>
+      • Repository & Unit of Work Patterns
+    </td>
+    <td valign="top" width="50%">
+      <strong>Tools & Practices</strong><br/><br/>
+      • Feature-Based Frontend Architecture<br/>
+      • Angular SSR (Express) & Signals<br/>
+      • Git, Postman & Monorepos<br/>
+      • Reverse Proxy (IIS / Kestrel)<br/>
+      • Agile & Jira
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhamed-Elganzory&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamed-Elganzory&theme=radical" alt="Mohamed's GitHub streak" />
+</p>
+
+📄 **Know more about my professional experience:** Check out my [Resume / Portfolio Folder](https://drive.google.com/drive/folders/1zASOUyWUM9CvgCtFjEmAx02bmtVRevuV?usp=sharing).
