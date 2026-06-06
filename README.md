@@ -78,11 +78,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhamed-Elganzory&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamed-Elganzory&theme=radical" alt="Mohamed's GitHub streak" />
-</p>
-
-📄 **Know more about my professional experience:** Check out my [Resume / Portfolio Folder](https://drive.google.com/drive/folders/1zASOUyWUM9CvgCtFjEmAx02bmtVRevuV?usp=sharing).
+📄 **Know more about my professional experience:** Check out my [Resume / CV](https://drive.google.com/drive/folders/1zASOUyWUM9CvgCtFjEmAx02bmtVRevuV?usp=sharing).
