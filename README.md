@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elganzory</h1>
 <h3 align="center">Software Engineer with 2 years of experience building full-stack web applications using .NET and Angular. Transitioning from a 6+ year career managing full IT operations and Healthcare ERP systems, bringing a strong foundation in system architecture, business process understanding, and enterprise environments. Seeking a professional software engineering role to further grow and contribute to a high-quality engineering team</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed-elganzory&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed-elganzory" /> </p>
+<p align="left"> <img src="https://www.linkedin.com/in/mohamed-elganzory-9ab86718a/" alt="Mohamed Elganzory" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamed-elganzory" alt="muhamed-elganzory" /></a> </p>
 
@@ -31,6 +31,3 @@
 
 <p><img align="left" src="https://github.com/Muhamed-Elganzory" alt="muhamed-elganzory" /></p>
 
-<p>&nbsp;<img align="center" src="https://github.com/Muhamed-Elganzory" alt="muhamed-elganzory" /></p>
-
-<p><img align="center" src="https://github.com/Muhamed-Elganzory" alt="muhamed-elganzory" /></p>
