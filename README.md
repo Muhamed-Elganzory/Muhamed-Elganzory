@@ -24,7 +24,7 @@
 * **💪 Super Fitness Management & AI Chatbot**
     * **Architecture & Tech:** .NET Core, Angular 19, Clean Architecture, CQRS, Google Gemini 2.5 Flash AI, Redis Caching, PrimeNG, Tailwind CSS 4.
     * **Description:** Gym management and nutrition platform integrated with an AI Chatbot via a secure .NET Core API Proxy. Features a sophisticated, reactive 7-step onboarding wizard powered by Angular Signals.
-    * 🔗 *Links:* [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/super-fitness)
+    * 🔗 *Links:* [Microservices BackEnd](https://github.com/Elevate-Fitness-Project-Teams/Fitness-App-Team1-GP2) | [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/super-fitness)
 
 * **🛒 Talabat E-Commerce Platform**
     * **Architecture & Tech:** .NET Core, Angular, Onion Architecture, Repository & Unit of Work, ASP.NET Core Identity, JWT, Redis Caching, FluentValidation, NgRx.
