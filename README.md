@@ -14,7 +14,7 @@
 * **🛍️ Gifts E-Commerce Platform & Admin Dashboard**
     * **Architecture & Tech:** .NET Core, Angular 19 (Monorepo), Microservices, DDD, RabbitMQ, JWT Authentication, Angular SSR, Signals, NgRx.
     * **Description:** A highly scalable microservices-based enterprise platform with independent data isolation, event-driven service communication via RabbitMQ, an Angular SSR client storefront, and a data-dense Admin Dashboard.
-    * 🔗 *Links:* [Microservices BackEnd]() | [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3)
+    * 🔗 *Links:* [Microservices BackEnd](Not Ready Yet) | [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3)
 
 * **📜 Online Examination System**
     * **Architecture & Tech:** .NET Core, Angular, Vertical Slice Architecture, CQRS (MediatR), IIS, Reverse Proxy, AutoMapper, Signals, Chart.js.
@@ -24,7 +24,7 @@
 * **💪 Super Fitness Management & AI Chatbot**
     * **Architecture & Tech:** .NET Core, Angular 19, Clean Architecture, CQRS, Google Gemini 2.5 Flash AI, Redis Caching, PrimeNG, Tailwind CSS 4.
     * **Description:** Gym management and nutrition platform integrated with an AI Chatbot via a secure .NET Core API Proxy. Features a sophisticated, reactive 7-step onboarding wizard powered by Angular Signals.
-    * 🔗 *Links:* [Microservices BackEnd](https://github.com/Elevate-Fitness-Project-Teams/Fitness-App-Team1-GP2) | [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/super-fitness)
+    * 🔗 *Links:* [Microservices BackEnd](https://github.com/Elevate-Fitness-Project-Teams/Fitness-App-Team1-GP2) | [Angular FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/super-fitness)
 
 * **🛒 Talabat E-Commerce Platform**
     * **Architecture & Tech:** .NET Core, Angular, Onion Architecture, Repository & Unit of Work, ASP.NET Core Identity, JWT, Redis Caching, FluentValidation, NgRx.
