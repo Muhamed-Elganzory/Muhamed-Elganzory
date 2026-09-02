@@ -14,7 +14,7 @@
 * **🛍️ Gifts E-Commerce Platform & Admin Dashboard**
     * **Architecture & Tech:** .NET Core, Angular 19 (Monorepo), Microservices, DDD, RabbitMQ, JWT Authentication, Angular SSR, Signals, NgRx.
     * **Description:** A highly scalable microservices-based enterprise platform with independent data isolation, event-driven service communication via RabbitMQ, an Angular SSR client storefront, and a data-dense Admin Dashboard.
-    * 🔗 *Links:* [Microservices BackEnd](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3) | [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3)
+    * 🔗 *Links:* [Microservices BackEnd]() | [Angular 19 FrontEnd (Feature-Based)](https://github.com/MostafaAbobaker/ecommerce-Elevate-Team3)
 
 * **📜 Online Examination System**
     * **Architecture & Tech:** .NET Core, Angular, Vertical Slice Architecture, CQRS (MediatR), IIS, Reverse Proxy, AutoMapper, Signals, Chart.js.
